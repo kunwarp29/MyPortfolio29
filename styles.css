@@ -99,7 +99,11 @@ hr{
     padding-top: 2rem;
 }
 .hero .hero-img{
-    max-width: 350px;
+    /* max-width: 350px;
+    display: block;
+    margin: auto; */
+    max-width: 80%;
+    width: 550px;
     display: block;
     margin: auto;
 }
