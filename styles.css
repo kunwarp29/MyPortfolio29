@@ -147,7 +147,8 @@ background-color: aliceblue;
     text-align: center;
 
 }
-.hero .hero-heading .heading-inverted{
+/* .hero .hero-heading  */
+.heading-inverted{
     color: var(--primary-color);
 
 } 
@@ -155,7 +156,9 @@ background-color: aliceblue;
     padding: 2rem;
 }
 
-   
+.row .bord{
+    border-radius: 50%;
+} 
 
 .section h1 { 
     text-align: center;
